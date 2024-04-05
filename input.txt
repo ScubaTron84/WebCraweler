@@ -1,0 +1,6 @@
+[STARTING POINT URL]
+http://www.rpi.edu/~perezl
+
+[ALLOWED HOSTS]
+tw.rpi.edu
+inference-web.org

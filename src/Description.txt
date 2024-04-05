@@ -1,0 +1,12 @@
+Stephen Mokszycki
+
+HW
+
+
+This is my first project in java, it was interesting to say the least...
+I could not get ARC to Work.
+I used a breathe first search.
+I barrowed the robotparser from a gnu public sorce to parse robot.txt
+Everything else i learned painstakingly by myself with a bit of help from Ben Classen, he was incredibly helpful.
+
+Im not sure i got the correct amount of links, i hit 300. I hope it was enough.

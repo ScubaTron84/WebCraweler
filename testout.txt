@@ -1,0 +1,6 @@
+[STARTING POINT URL]
+http://tw.rpi.edu/2008/CSCI4964/starting.html
+
+[ALLOWED HOSTS]
+tw.rpi.edu
+inference-web.org
